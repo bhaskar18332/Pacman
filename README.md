@@ -1,3 +1,3 @@
-#Pacman
-A Simple Pacman game in python using pygame module.
-The images used in the code are not available. Will upload them later.
+# Honour
+A simple Pacman game in python using Pygame module.
+The images used in the code are not available at this moment. Will upload them later.
